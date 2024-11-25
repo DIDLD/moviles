@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!-- Color de fondo del botón (más sólido) -->
+    <solid android:color="#6F4F28" /> <!-- Marrón oscuro para el grano de café -->
+
+    <!-- Borde del botón -->
+    <stroke
+        android:width="4dp"
+        android:color="#D2B48C" /> <!-- Borde beige claro tipo taza -->
+
+    <!-- Ajustar el tamaño del botón -->
+    <size
+        android:width="160dp"
+        android:height="80dp" />
+
+    <!-- Opcional: Añadir un padding interno para dar más espacio al texto -->
+    <padding
+        android:left="10dp"
+        android:right="10dp"
+        android:top="5dp"
+        android:bottom="5dp" />
+
+</shape>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="co">#D2B48C</color>
+    <color name="letr">#6F4F28</color>
+    <color name="as">#BA8F5B</color>
+    <color name="a12">#BAFAC27E</color>
+    <color name="log1">#e9be71</color>
+    <color name="log2">#35200b</color>
+    <color name="log3">#c6bfba</color>
+    <color name="log4">#eabe72</color>
+
+    <color name="fondo">#EFEFEF</color>
+
+
+
+
+</resources>

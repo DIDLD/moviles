@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Color de fondo del botón -->
+    <solid android:color="#FF5722"/> <!-- Color naranja -->
+
+    <!-- Borde del botón (opcional) -->
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF"/> <!-- Borde blanco -->
+
+    <!-- Ajustar el tamaño del botón (opcional) -->
+    <!-- Puedes eliminar esto si prefieres que el tamaño del botón se ajuste automáticamente -->
+    <size
+        android:width="160dp"
+        android:height="80dp"/>
+
+    <!-- Padding interno para dar más espacio al texto (opcional) -->
+    <padding
+        android:left="10dp"
+        android:right="10dp"
+        android:top="5dp"
+        android:bottom="5dp"/>
+</shape>
